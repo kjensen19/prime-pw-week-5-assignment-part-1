@@ -56,4 +56,4 @@ console.log("should be one more:", me.shoeCount);
 */
 me.favoriteColor = 'Grey';
 console.log('should be Grey', me.favoriteColor);
-console.log(me)
+console.log(me);
